@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='align']" name="managedName">EsAlign</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='checkPrintEnd']" name="managedName">EsCheckPrintEnd</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='halftone']" name="managedName">EsHalftone</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='margin']" name="managedName">EsMargin</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='orientation']" name="managedName">EsOrientation</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='paperSize']" name="managedName">EsPaperSize</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='pjFeedMode']" name="managedName">EsPjFeedMode</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='port']" name="managedName">EsPort</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='printMode']" name="managedName">EsPrintMode</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='printQuality']" name="managedName">EsPrintQuality</attr>
+	<attr path="/api/package[@name='com.brother.ptouch.sdk']/class[@name='PrinterInfo']/field[@name='pjPaperKind']" name="managedName">EsPjPaperKind</attr>
+	<attr path="/api/package[@name='com.brother.sdk.lmprinter']/class[@name='TemplateObjectReplacer.Creator']/method[@name='createFromParcel']" name="managedReturn">Java.Lang.Object</attr>
+	<attr path="/api/package[@name='com.brother.sdk.lmprinter']/class[@name='TemplateObjectReplacer.Creator']/method[@name='newArray']" name="managedReturn">Java.Lang.Object[]</attr>
+
+
+</metadata>
